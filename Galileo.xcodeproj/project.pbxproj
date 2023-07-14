@@ -11,6 +11,20 @@
 		304EA8B32A61B26900EC5EBA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8B22A61B26900EC5EBA /* ContentView.swift */; };
 		304EA8B52A61B26D00EC5EBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 304EA8B42A61B26D00EC5EBA /* Assets.xcassets */; };
 		304EA8B82A61B26D00EC5EBA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 304EA8B72A61B26D00EC5EBA /* Preview Assets.xcassets */; };
+		304EA8BF2A61B29A00EC5EBA /* Graphics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8BE2A61B29A00EC5EBA /* Graphics.swift */; };
+		304EA8C92A61B2D600EC5EBA /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8C22A61B2D600EC5EBA /* SearchView.swift */; };
+		304EA8CA2A61B2D600EC5EBA /* CelestialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8C32A61B2D600EC5EBA /* CelestialView.swift */; };
+		304EA8CB2A61B2D600EC5EBA /* ARView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8C42A61B2D600EC5EBA /* ARView.swift */; };
+		304EA8CC2A61B2D600EC5EBA /* ProvaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8C52A61B2D600EC5EBA /* ProvaView.swift */; };
+		304EA8CD2A61B2D600EC5EBA /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8C62A61B2D600EC5EBA /* SplashScreen.swift */; };
+		304EA8CE2A61B2D600EC5EBA /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8C72A61B2D600EC5EBA /* TableView.swift */; };
+		304EA8CF2A61B2D600EC5EBA /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8C82A61B2D600EC5EBA /* AboutView.swift */; };
+		304EA8D22A61B2F100EC5EBA /* Celestial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8D12A61B2F100EC5EBA /* Celestial.swift */; };
+		304EA8DA2A61B3BF00EC5EBA /* mars.reality in Resources */ = {isa = PBXBuildFile; fileRef = 304EA8D62A61B3BF00EC5EBA /* mars.reality */; };
+		304EA8DB2A61B3BF00EC5EBA /* moon.reality in Resources */ = {isa = PBXBuildFile; fileRef = 304EA8D72A61B3BF00EC5EBA /* moon.reality */; };
+		304EA8DC2A61B3BF00EC5EBA /* Celestials.json in Resources */ = {isa = PBXBuildFile; fileRef = 304EA8D82A61B3BF00EC5EBA /* Celestials.json */; };
+		304EA8DD2A61B3BF00EC5EBA /* sun.reality in Resources */ = {isa = PBXBuildFile; fileRef = 304EA8D92A61B3BF00EC5EBA /* sun.reality */; };
+		304EA8DF2A61B8F000EC5EBA /* NewCelestialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304EA8DE2A61B8F000EC5EBA /* NewCelestialView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		304EA8B22A61B26900EC5EBA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		304EA8B42A61B26D00EC5EBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		304EA8B72A61B26D00EC5EBA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		304EA8BE2A61B29A00EC5EBA /* Graphics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Graphics.swift; sourceTree = "<group>"; };
+		304EA8C22A61B2D600EC5EBA /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		304EA8C32A61B2D600EC5EBA /* CelestialView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CelestialView.swift; sourceTree = "<group>"; };
+		304EA8C42A61B2D600EC5EBA /* ARView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARView.swift; sourceTree = "<group>"; };
+		304EA8C52A61B2D600EC5EBA /* ProvaView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProvaView.swift; sourceTree = "<group>"; };
+		304EA8C62A61B2D600EC5EBA /* SplashScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		304EA8C72A61B2D600EC5EBA /* TableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
+		304EA8C82A61B2D600EC5EBA /* AboutView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
+		304EA8D12A61B2F100EC5EBA /* Celestial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Celestial.swift; sourceTree = "<group>"; };
+		304EA8D62A61B3BF00EC5EBA /* mars.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = mars.reality; sourceTree = "<group>"; };
+		304EA8D72A61B3BF00EC5EBA /* moon.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = moon.reality; sourceTree = "<group>"; };
+		304EA8D82A61B3BF00EC5EBA /* Celestials.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Celestials.json; sourceTree = "<group>"; };
+		304EA8D92A61B3BF00EC5EBA /* sun.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = sun.reality; sourceTree = "<group>"; };
+		304EA8DE2A61B8F000EC5EBA /* NewCelestialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewCelestialView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +79,10 @@
 		304EA8AF2A61B26900EC5EBA /* Galileo */ = {
 			isa = PBXGroup;
 			children = (
+				304EA8D52A61B3AD00EC5EBA /* Resources */,
+				304EA8D02A61B2DF00EC5EBA /* Model */,
+				304EA8C12A61B2CA00EC5EBA /* View */,
+				304EA8C02A61B2A300EC5EBA /* Data */,
 				304EA8B02A61B26900EC5EBA /* GalileoApp.swift */,
 				304EA8B22A61B26900EC5EBA /* ContentView.swift */,
 				304EA8B42A61B26D00EC5EBA /* Assets.xcassets */,
@@ -65,6 +97,48 @@
 				304EA8B72A61B26D00EC5EBA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		304EA8C02A61B2A300EC5EBA /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				304EA8BE2A61B29A00EC5EBA /* Graphics.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		304EA8C12A61B2CA00EC5EBA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				304EA8C82A61B2D600EC5EBA /* AboutView.swift */,
+				304EA8C42A61B2D600EC5EBA /* ARView.swift */,
+				304EA8C32A61B2D600EC5EBA /* CelestialView.swift */,
+				304EA8C52A61B2D600EC5EBA /* ProvaView.swift */,
+				304EA8C22A61B2D600EC5EBA /* SearchView.swift */,
+				304EA8C62A61B2D600EC5EBA /* SplashScreen.swift */,
+				304EA8C72A61B2D600EC5EBA /* TableView.swift */,
+				304EA8DE2A61B8F000EC5EBA /* NewCelestialView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		304EA8D02A61B2DF00EC5EBA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				304EA8D12A61B2F100EC5EBA /* Celestial.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		304EA8D52A61B3AD00EC5EBA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				304EA8D82A61B3BF00EC5EBA /* Celestials.json */,
+				304EA8D62A61B3BF00EC5EBA /* mars.reality */,
+				304EA8D72A61B3BF00EC5EBA /* moon.reality */,
+				304EA8D92A61B3BF00EC5EBA /* sun.reality */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +199,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				304EA8DC2A61B3BF00EC5EBA /* Celestials.json in Resources */,
 				304EA8B82A61B26D00EC5EBA /* Preview Assets.xcassets in Resources */,
+				304EA8DB2A61B3BF00EC5EBA /* moon.reality in Resources */,
+				304EA8DA2A61B3BF00EC5EBA /* mars.reality in Resources */,
 				304EA8B52A61B26D00EC5EBA /* Assets.xcassets in Resources */,
+				304EA8DD2A61B3BF00EC5EBA /* sun.reality in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +215,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				304EA8CD2A61B2D600EC5EBA /* SplashScreen.swift in Sources */,
+				304EA8C92A61B2D600EC5EBA /* SearchView.swift in Sources */,
+				304EA8BF2A61B29A00EC5EBA /* Graphics.swift in Sources */,
 				304EA8B32A61B26900EC5EBA /* ContentView.swift in Sources */,
+				304EA8DF2A61B8F000EC5EBA /* NewCelestialView.swift in Sources */,
+				304EA8D22A61B2F100EC5EBA /* Celestial.swift in Sources */,
+				304EA8CF2A61B2D600EC5EBA /* AboutView.swift in Sources */,
+				304EA8CE2A61B2D600EC5EBA /* TableView.swift in Sources */,
+				304EA8CA2A61B2D600EC5EBA /* CelestialView.swift in Sources */,
+				304EA8CC2A61B2D600EC5EBA /* ProvaView.swift in Sources */,
 				304EA8B12A61B26900EC5EBA /* GalileoApp.swift in Sources */,
+				304EA8CB2A61B2D600EC5EBA /* ARView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,11 +358,13 @@
 				DEVELOPMENT_TEAM = 4Q64HMZS63;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Galileo v2";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,11 +389,13 @@
 				DEVELOPMENT_TEAM = 4Q64HMZS63;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Galileo v2";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
